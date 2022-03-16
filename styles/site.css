@@ -517,9 +517,7 @@ a:-webkit-any-link {
     margin-bottom: 20px;
 }
 
-.shopUnit:nth-child(3n) {
-    margin-right: 0;
-}
+/* -3е */
 
 .shopUnitName {
     width: 100%;
